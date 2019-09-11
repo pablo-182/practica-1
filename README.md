@@ -1,2 +1,2 @@
-# practica-1
+# proyecto 1
 Practica de maquetacion de un sitio web de una startup con html y css
